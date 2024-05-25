@@ -54,6 +54,9 @@ cd backend
 npm run dev
 ```
 
+## NOTE
+Connection string of MongoDB is already  present, no need to modify  it.
+
 
 ## Ask for help
 

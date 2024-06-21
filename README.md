@@ -1,7 +1,3 @@
-## Intro
-
-This repo is created for assessment of internship for AI cert , hope you guys like it. :)
-
 ## How to install locally
 
 1. Download the zip file

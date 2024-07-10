@@ -1,3 +1,5 @@
+**This repo is created as assignment for internship at AI cert , hope you guys like it. :)**
+
 ## How to install locally
 
 1. Download the zip file

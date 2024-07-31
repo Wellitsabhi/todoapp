@@ -12,13 +12,13 @@
 cd AI cert
 ```
 
-4. Create .env file
-
-   i. for frontend (made using vite )
-  ```
-  cd frontend
-  VITE_PORT = 3000
-  ```
+> ## 4. Create .env file
+>
+>   1. for frontend (made using vite )
+>  ```
+>  cd frontend
+>  VITE_PORT = 3000
+>  ```
   <!-- ii. for backend
 
    ```
@@ -27,30 +27,36 @@ cd AI cert
    ``` -->
 
 
-5. Install dependencies
-   1. for frontend (made using vite )
+> ## 5. Install dependencies
+>
+>   1. for frontend (made using vite )
+>
+> ```
+> cd frontend
+> npm i
+>```
+>   2. for backend
+> ```
+> cd backend
+> npm i
+> ```
 
-```
-cd frontend
-npm i
-```
-   2. for backend
-```
-cd backend
-npm i
-```
-6. Run Project
-   1. for frontend (made using vite )
 
-```
-cd frontend
-npm run dev
-```
-   2. for backend
-```
-cd backend
-npm run dev
-```
+> ## 6. Run Project
+>
+> 1. for frontend (made using vite )
+>  ```
+>  cd frontend
+>  npm run dev
+>  ```
+>
+>
+>
+> 2. for backend
+>  ```
+>  cd backend
+>  npm run dev
+>  ```
 
 ## NOTE
 1. Connection string of MongoDB is already  present, no need to modify it.

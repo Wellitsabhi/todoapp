@@ -13,18 +13,18 @@ cd AI cert
 ```
 
 4. Create .env file
-   1. for frontend (made using vite )
+
+   i. for frontend (made using vite )
   ```
   cd frontend
   VITE_PORT = 3000
   ```
-  2. for backend
+  <!-- ii. for backend
 
-
- ```
- cd frontend
- VITE_PORT = 3000
- ```
+   ```
+   cd frontend
+   VITE_PORT = 3000
+   ``` -->
 
 
 5. Install dependencies
@@ -34,7 +34,7 @@ cd AI cert
 cd frontend
 npm i
 ```
-  2. for backend
+   2. for backend
 ```
 cd backend
 npm i
@@ -46,14 +46,15 @@ npm i
 cd frontend
 npm run dev
 ```
- 2. for backend
+   2. for backend
 ```
 cd backend
 npm run dev
 ```
 
 ## NOTE
-Connection string of MongoDB is already  present, no need to modify  it.
+1. Connection string of MongoDB is already  present, no need to modify it.
+2. For easy setup, cors is allowed for all. But deployed version is secured.
 
 
 ## Ask for help
